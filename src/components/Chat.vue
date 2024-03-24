@@ -118,7 +118,7 @@ export default {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .user-name {
@@ -127,7 +127,6 @@ export default {
   color: rgb(141, 137, 137);
   font-size: .9rem;
   font-weight: bold;
-  margin-right: auto;
 }
 
 .time {
@@ -136,7 +135,6 @@ export default {
   color: rgb(141, 137, 137);
   font-size: .9rem;
   font-weight: bold;
-  margin-left: auto;
 }
 
 .message {

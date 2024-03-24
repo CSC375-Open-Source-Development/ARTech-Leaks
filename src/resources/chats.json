@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ef0367c4-8d17-4985-9970-105b2455dd4a",
+    "from": "Callie Marie",
+    "remote": false,
+    "body": [
+      "Hello!"
+    ],
+    "date": "1/22/2024 3:15pm"
+  },
+  {
+    "id": "d23ca758-a70c-4fb5-97ea-a52fffadb6d6",
+    "from": "Charli Cat",
+    "remote": true,
+    "body": [
+      "Hi!"
+    ],
+    "date": "1/22/2024 3:20pm"
+  },
+  {
+    "id": "cb9c407a-72ab-4559-a7b8-b6af4c660f89",
+    "from": "Callie Marie",
+    "remote": false,
+    "body": [
+      "testing a really really really really really really really really really really long message"
+    ],
+    "date": "1/22/2024 3:24pm"
+  },
+  {
+    "id": "b2d5eecd-afc6-4324-b5e4-10b87ab367fc",
+    "from": "Charli Cat",
+    "remote": true,
+    "body": [
+      "hey this came out nice, well done!",
+      "",
+      "Can we support new lines though lol?"
+    ],
+    "date": "1/22/2024 3:28pm"
+  }
+]

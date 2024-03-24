@@ -3,9 +3,13 @@
     <div class="container">
       <div class="conversation-box">
         <div :class="getChatUserContainerClass(message)" v-for="message in messages" :key="message.id" >
-          <img class="profile-picture" :src="getProfilePicture(getUser(message))" alt="">
+          <img class="profile-picture" :src="getProfilePicture(message)" alt="">
           <div :class="getChatContainerClass(message)">
             <div class="message-container">
+              <div class="chat-metadata-container">
+                <p class="user-name">{{ getUser(message).firstName }} {{ getUser(message).lastName }}</p>
+                <p class="time">{{ message.date }}</p>
+              </div>
               <p :class="getMessageClass(message)" v-for="element in message.body" :key="message.id + element">{{ element || '&nbsp;' }}</p>
             </div>
           </div>
@@ -16,11 +20,9 @@
 </template>
 
 <script>
-import users from '../resources/users.json'
-
 export default {
   name: 'Chat',
-  props: ['messages'],
+  props: ['messages', 'users'],
   methods: {
     getChatUserContainerClass(message) {
       return {
@@ -44,10 +46,10 @@ export default {
       }
     },
     getUser(message) {
-      return users.find(user => user.id === message.from)
+      return this.users[message.from]
     },
-    getProfilePicture(user) {
-      return require(`../resources/profile-pictures/${user.profilePicture}`)
+    getProfilePicture(message) {
+      return require(`../resources/profile-pictures/${this.users[message.from].profilePicture}`)
     }
   }
 }
@@ -88,7 +90,7 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  max-width: 17rem;
+  max-width: 18rem;
 }
 
 .local-chat-container {
@@ -102,7 +104,7 @@ export default {
 }
 
 .profile-picture {
-  width: 2rem;
+  width: 2.5rem;
   border-radius: 5rem;
 }
 
@@ -110,6 +112,31 @@ export default {
   display: flex;
   margin-right: auto;
   flex-direction: column;
+}
+
+.chat-metadata-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+}
+
+.user-name {
+  margin-top: .2rem;
+  margin-bottom: .4rem;
+  color: rgb(141, 137, 137);
+  font-size: .9rem;
+  font-weight: bold;
+  margin-right: auto;
+}
+
+.time {
+  margin-top: .2rem;
+  margin-bottom: .4rem;
+  color: rgb(141, 137, 137);
+  font-size: .9rem;
+  font-weight: bold;
+  margin-left: auto;
 }
 
 .message {

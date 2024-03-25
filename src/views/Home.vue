@@ -7,25 +7,26 @@
 <script>
 import chats from '../resources/chats.json'
 import users from '../resources/users.json'
-import Chat from '../components/Chat.vue'
+import Chat from '../components/conversation/Conversation.vue'
 
 export default {
   name: 'Home',
   components: {
     Chat
   },
-  data: () => {
-    return {
-      messages: [],
-      users: {}
-    }
-  },
-  mounted() {
-    this.messages = chats
-    this.users = this.messages.reduce((acc, curr) => {
+  computed: {
+    messages() {
+      return chats
+    },
+    users() {
+      return this.messages.reduce((acc, curr) => {
+      if (acc.find(user => user.id === curr.from)) {
+        return acc
+      }
       const user = users.find(user => user.id === curr.from)
-      return { ...acc, [user.id]: user }
-    }, {})
+      return [ ...acc, user ]
+    }, [])
+    }
   }
 }
 </script>

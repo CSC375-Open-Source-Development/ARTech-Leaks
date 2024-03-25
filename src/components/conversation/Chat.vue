@@ -1,18 +1,14 @@
 <template>
-  <div>
-    <div class="container">
-      <div class="conversation-box">
-        <div :class="getChatUserContainerClass(message)" v-for="message in messages" :key="message.id" >
-          <img class="profile-picture" :src="getProfilePicture(message)" alt="">
-          <div :class="getChatContainerClass(message)">
-            <div class="message-container">
-              <div class="chat-metadata-container">
-                <p class="user-name">{{ getUser(message).firstName }} {{ getUser(message).lastName }}</p>
-                <p class="time">{{ message.date }}</p>
-              </div>
-              <p :class="getMessageClass(message)" v-for="element in message.body" :key="message.id + element">{{ element || '&nbsp;' }}</p>
-            </div>
+  <div class="conversation-box">
+    <div :class="getChatUserContainerClass(message)" v-for="message in messages" :key="message.id" >
+      <img class="profile-picture" :src="getProfilePicture(message)">
+      <div :class="getChatContainerClass(message)">
+        <div class="message-container">
+          <div class="chat-metadata-container">
+            <p :class="getMetadataClass(message)">{{ getUser(message).firstName }} {{ getUser(message).lastName }}</p>
+            <p :class="getMetadataClass(message)">{{ message.date }}</p>
           </div>
+          <p :class="getMessageClass(message)" v-for="element in message.body" :key="message.id + element">{{ element || '&nbsp;' }}</p>
         </div>
       </div>
     </div>
@@ -38,6 +34,13 @@ export default {
         'remote-chat-container': !!message.remote
       }
     },
+    getMetadataClass(message) {
+      return {
+        metadata: true,
+        'local-metadata': !!!message.remote,
+        'remote-metadata': !!message.remote
+      }
+    },
     getMessageClass(message) {
       return {
         message: true,
@@ -49,23 +52,19 @@ export default {
       return this.users[message.from]
     },
     getProfilePicture(message) {
-      return require(`../resources/profile-pictures/${this.users[message.from].profilePicture}`)
+      return require(`@/resources/profile-pictures/${this.users[message.from].profilePicture}`)
     }
   }
 }
 </script>
 
-<style scoped>
-.container {
-  display: flex;
-  justify-content: center;
-}
 
+<style scoped>
 .conversation-box {
   display: flex;
   flex-direction: column;
-  min-width: 30rem;
   border: 1px solid #000000;
+  width: 30rem;
   padding: .4rem;
 }
 
@@ -121,20 +120,19 @@ export default {
   gap: 1rem;
 }
 
-.user-name {
+.metadata {
   margin-top: .2rem;
   margin-bottom: .4rem;
-  color: rgb(141, 137, 137);
   font-size: .9rem;
   font-weight: bold;
 }
 
-.time {
-  margin-top: .2rem;
-  margin-bottom: .4rem;
+.local-metadata {
+  color: rgb(180, 180, 180);
+}
+
+.remote-metadata {
   color: rgb(141, 137, 137);
-  font-size: .9rem;
-  font-weight: bold;
 }
 
 .message {

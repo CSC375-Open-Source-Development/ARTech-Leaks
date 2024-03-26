@@ -1,0 +1,99 @@
+[
+  {
+    "id": "0",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": false,
+    "body": [
+      "Hey"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": false,
+    "body": [
+      "I had just a meeting with our server admin team, and they are looking to clean up severs that aren't being used anymore to make space and save money. Can you go through the following list and tell me what is what and if anything isn't being used anymore so we can get rid of it?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Yep, sure thing."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "Thanks. Here is what I have on our list:",
+      " - 172.42.18.1",
+      " - 84.112.45.44",
+      " - 98.209.205.10",
+      " - 192.168.14.5",
+      " - 67.205.143.29",
+      " - 40.56.2.23",
+      " - 12.3.3.1"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Okay one sec, let me do some quick research to verify what some of these are for..."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "172.42.18.1 is for an old legacy orchestrator and needs to stick around for now (although one day we should look and see if we can get rid of that...)."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "6",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "67.205.143.29 is our build server that we use for our automated pipelines, definitely need that."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "40.56.2.23 is our sandbox server that we use for testing things, we don't use it too often but it is nice to have."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "8",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "The rest are are old private cloud servers that aren't needed anymore now that we use AWS, so those can be removed."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "9",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": false,
+    "body": [
+      "Thanks -- will let the server admin team know."
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

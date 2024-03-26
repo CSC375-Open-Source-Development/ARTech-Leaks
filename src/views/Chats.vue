@@ -26,7 +26,7 @@ export default {
   },
   mounted() {
     const conversationIds = require.context('@/resources/conversations', false, /.json$/).keys().map(key => key.slice(2, -5))
-    this.chats = conversationIds.map(conversationId => ({ id: conversationId }))
+    this.chats = conversationIds.map(conversationId => ({ id: conversationId })).sort((a, b) => a.id.localeCompare(b.id))
 
     this.$nextTick(() => {
       const conversationId = this.$route.query.conversation

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Hi Brian, I know you are likely busy knocking out those HR training courses, but I wanted to say hello and quickly introduce myself and Andrew here before our meeting later today. I will be your manager this summer, and I'm looking forward to getting to know you and having you work on this new game product that Andrew and I have been developing these last few months."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Welcome to the team! Please reach out if you have any questions regarding onboarding. I just recently started her full time last month, so I have most of it still fresh in my brain."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Thank you guys! I'm really looking forward to getting to work with you guys on that game you're talking about. These HR trainings are...not the most exciting hahaha."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "lol consider it a rite of passage."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Actually already have a quick question. I'm following the onboarding guide and it says to install Java, but it seems like the download is being blocked."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Ah yeah, you have to grab it from our tech portal. The firewall around here is pretty strict, and you are only supposed to install company \"approved\" software from the portal. Do you want me to show you how to access it?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "6",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Yes that would be great if you could show me, I found the url in the onboarding documents but can't seem to login."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Gotcha, I'll give you a call now."
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "0",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": false,
+    "body": [
+      "Hi Morgan! Just wanted to welcome you to the team. I'm Renata, the team's senior architect, and I'll be your manager for the summer. I'm excited to have you aboard, I think you'll really enjoy the work we do here."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "It's so nice to meet you Renata! I'm so excited to be here. If there's anything I can get started on right away please let me know!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": false,
+    "body": [
+      "I LOVE the enthusiasm -- I will talk to Tom (one of our senior software engineers) today and will figure out what we can get you started on for tomorrow.",
+      "",
+      "For today, can you work your way through all of the onboarding, HR, and cybersecurity training courses? I'll put in some access requests for you in the meantime, and then we can meet later today to more properly introduce ourselves and discuss your interests and goals. Does that sound good to you?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Yes, that sounds great, thank you so much! I'll get started on those training courses right away."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": false,
+    "body": [
+      "Awesome, I just sent you an invite for us to meeting this afternoon. Talk to you later today!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

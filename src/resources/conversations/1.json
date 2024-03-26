@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "remote": false,
+    "body": [
+      "Hey Brian and Morgan! Just wanted to welcome you all to the team for your summer internships. I'm Anthony Jones, the team's Scrum master. If there's anything you need help with please don't hesitate to reach out! Also, I am adding you two to the team's standup meetings which are every day at 11pm."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Thanks Anthony! It's nice to meet you. I'm so excited to be working here, and looking forward to working with you!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "Thank you! I JUST took a class on agile last semester and we had to do standups and other Scrum ceremonies, so I am excited to see how they are done in the actual workplace hahaha!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "remote": false,
+    "body": [
+      "Ohhh trust me, you won't be very excited for some of these meetings after the shine wears off...but please keep that attitude for as long as you can!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Do you actually stand up during the meetings or is that just a myth my professor told me?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "remote": false,
+    "body": [
+      "We used to stand, but now we all just go into a plank stance instead to REALLY speed up the meetings ;)"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "6",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "HAHAHAHAHA"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Oh boy lol"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "0",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "Hi Brian! Sorry I know it's late, but can you approve a pull request for me? It's just CSS updates.",
+      "",
+      "<PULL REQUEST HERE>"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "I know you don't really work on this project but you're the only other person online, and I need to get this in before Sophia's conference tomorrow."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Just approved it!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "Thank you so much!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

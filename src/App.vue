@@ -37,4 +37,8 @@ export default {
 #app {
   font-family: 'Roboto', sans-serif
 }
+
+body {
+  overflow-y: scroll
+}
 </style>

@@ -35,10 +35,10 @@ export default {
 .nav {
   display: flex;
   background: green;
-  padding-left: 1rem;
   align-items: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  justify-content: center;
 }
 
 .header {
@@ -53,7 +53,6 @@ a {
   color: white;
   text-decoration: none;
   padding-bottom: .2rem;
-  
 }
 
 a:hover {

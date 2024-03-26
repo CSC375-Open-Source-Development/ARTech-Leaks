@@ -21,7 +21,7 @@ export default {
         case 'Chats':
         case 'Chat':
           return 1
-        case 'Users':
+        case 'About':
           return 2
         default:
           return -1

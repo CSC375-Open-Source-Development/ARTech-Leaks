@@ -3,7 +3,7 @@
     <div class="header">
       <router-link :style="getRouterLinkStyles(0)" @click.native="changeNav(0)" to="/">Home</router-link>
       <router-link :style="getRouterLinkStyles(1)" @click.native="changeNav(1)" to="/chats">Chats</router-link>
-      <router-link :style="getRouterLinkStyles(2)" @click.native="changeNav(2)" to="/users">Users</router-link>
+      <router-link :style="getRouterLinkStyles(2)" @click.native="changeNav(2)" to="/about">About</router-link>
     </div>
   </div>
 </template>

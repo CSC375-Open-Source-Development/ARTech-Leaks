@@ -65,7 +65,9 @@ export default {
   flex-direction: column;
   border: 1px solid #000000;
   width: 30rem;
+  height: 30rem;
   padding: .4rem;
+  overflow-y: scroll;
 }
 
 .chat-user-container {

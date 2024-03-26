@@ -3,54 +3,80 @@
     "id": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "firstName": "Laura",
     "lastName": "Green",
-    "profilePicture": "laura.jpg"
+    "profilePicture": "laura.jpg",
+    "role": "Product Manager",
+    "bio": "Laura's role as product manager is to both ensure that the target user's needs are properly represented in the products that are being developed, as well as aligning stakeholders around the vision of said products. She loves to travel, and always volunteers to go on work trips to attend conferences. She manages Sophia, Anthony, and Quinn."
   },
   {
     "id": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "firstName": "Tom",
     "lastName": "Sterling",
-    "profilePicture": "tom.jpg"
+    "profilePicture": "tom.jpg",
+    "role": "Senior Software Engineer",
+    "bio": "Tom has been working as a software engineer for 10 years, and is next-in-line for a large promotion due to his excellent work on the last three projects he has worked on. He is recently married with a child on the way. He currently manages both Andrew and Brian."
   },
   {
     "id": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "firstName": "Andrew",
     "lastName": "Miller",
-    "profilePicture": "andrew.jpg"
+    "profilePicture": "andrew.jpg",
+    "role": "Software Engineer",
+    "bio": "Andrew is a newer software engineer having just recently graduated school. He is currently working on his first project and has been impressing his manager Tom with both his dev work as well as his willingness to mentor the new intern Brian. He has recently been spending time working on revamping the deployment pipeline for the project he is working on."
   },
   {
     "id": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
     "firstName": "Brian",
     "lastName": "Johnson",
-    "profilePicture": "brian.jpg"
+    "profilePicture": "brian.jpg",
+    "role": "Intern Software Engineer",
+    "bio": "Brian is a rising junior college student majoring in computer science and this is his first internship. He has already learned a lot in such a short amount of time. In school, he is the captain of the robotics team, and is very active in Habitat for Humanity volunteering."
   },
   {
     "id": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
     "firstName": "Renata",
     "lastName": "Rossi",
-    "profilePicture": "renata.jpg"
+    "profilePicture": "renata.jpg",
+    "role": "Senior Architect",
+    "bio": "Renata's expertise in program architecture and infrastructure makes her an invaluable asset for the team. Despite being a major workaholic, she still finds the time to run marathons and attend all of her kids' sports games. She currently manages Morgan."
   },
   {
     "id": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
-    "firstName": "Cindy",
-    "lastName": "Mora",
-    "profilePicture": "cindy.jpg"
+    "firstName": "Quinn",
+    "lastName": "Murphy",
+    "profilePicture": "quinn.jpg",
+    "role": "UI/UX Designer",
+    "bio": "Quinn is the team's design specialist. She not only creates comps and holds design/usability reviews, but she even picked up HTML and CSS while on the job to aid the developers. She is currently in grad school for marketing and advertising. She is managed by Laura, and is best friends with Sophia."
+  },
+  {
+    "id": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "firstName": "Sophia",
+    "lastName": "Lee",
+    "profilePicture": "sophia.jpg",
+    "role": "Customer Research Specialist",
+    "bio": "Sophia's job is to conduct research and hold experiments to better understand different customers and the market as a whole. Due to her great understanding of the customer and the like, she routinely represents the team at conferences. She is managed by Laura, and is best friends with Quinn."
   },
   {
     "id": "a7081106-bee8-4dc8-b65d-b17925d632c7",
     "firstName": "Anthony",
     "lastName": "Jones",
-    "profilePicture": "anthony.jpg"
+    "profilePicture": "anthony.jpg",
+    "role": "Scrum Master",
+    "bio": "Anthony keeps the team in-line through enforcing agile/scrum best practices and resolving blockers that may arise. He has a computer science background and started at the company as a software engineer, but later transitioned to a more people-oriented role after realizing how much he enjoyed the social aspect of the job. He is managed by Laura. Outside of work, he has a black belt in Taekwondo."
   },
   {
     "id": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "firstName": "Hayley",
-    "lastName": "Quinn",
-    "profilePicture": "hayley.jpg"
+    "firstName": "Morgan",
+    "lastName": "Colby",
+    "profilePicture": "morgan.jpg",
+    "role": "Intern Software Engineer",
+    "bio": "Morgan is a rising senior computer science student and this is her second software engineering internship. At school, she has a 4.0 GPA and is working on a separate research project looking into AI in the game industry. The team is already planning to give her a full-time offer for next year after she graduates due to her excellent work so far and willingness to take on any task. She is well-known around the office for her love of Taylor Swift. She is managed by Renata."
   },
   {
     "id": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "firstName": "Scott",
     "lastName": "Weaver",
-    "profilePicture": "scott.jpg"
+    "profilePicture": "scott.jpg",
+    "role": "Lead Software Engineer",
+    "bio": "Scott has 25 years of software engineering experience across many different companies. He was brought into this company to run the show development-wise, and has exceeded expectations thus far. While he spends most of his time in meetings regarding development strategy, helping other developers, and managing his peers, he still finds a way to get his hands in the code every once in a while. He currently manages Tom, and several other senior software engineers that aren't listed here."
   }
 ]

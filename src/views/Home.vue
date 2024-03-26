@@ -20,12 +20,12 @@ export default {
     },
     users() {
       return this.messages.reduce((acc, curr) => {
-      if (acc.find(user => user.id === curr.from)) {
-        return acc
-      }
-      const user = users.find(user => user.id === curr.from)
-      return [ ...acc, user ]
-    }, [])
+        if (acc.find(user => user.id === curr.from)) {
+          return acc
+        }
+        const user = users.find(user => user.id === curr.from)
+        return [ ...acc, user ]
+      }, [])
     }
   }
 }

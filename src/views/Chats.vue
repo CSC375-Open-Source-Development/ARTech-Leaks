@@ -29,8 +29,15 @@ export default {
     this.chats = conversationIds.map(conversationId => ({ id: conversationId }))
 
     this.$nextTick(() => {
-      const index = this.$route.query.index || 0
-      this.onChatSelected(index)
+      const conversationId = this.$route.query.conversation
+      if (!conversationId) {
+        return this.onChatSelected(0)
+      }
+      const index = this.chats.findIndex(chat => chat.id === conversationId)
+      if (index === -1) {
+        return this.onChatSelected(0)
+      }
+      return this.onChatSelected(index)
     });
   },
   computed: {
@@ -60,7 +67,7 @@ export default {
       chatSelection.style.backgroundColor = 'green'
       chatSelection.style.color = 'white';
       this.selectedChatIndex = index
-      return this.$router.replace({ name: 'Chats', query: { index } })
+      return this.$router.replace({ name: 'Chats', query: { conversation: this.chats[index].id } })
         .catch(() => {})
     }
   }

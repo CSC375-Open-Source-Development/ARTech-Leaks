@@ -6,7 +6,7 @@
     "body": [
       "Hey guys, your access finally just got approved for our user story board in Trello.",
       "",
-      "You should receive an email with the option to accept my invite. Hit accept, and then you will be brought to a login screen. To login, the username is your company shortname identifier (first letter of first name and first six letters of last name), and then your regular workstation password."
+      "You should receive an email with the option to accept my invite. Hit accept, and then you will be brought to a login screen. To login, the username is your company shortname identifier, and then the password is your regular workstation password."
     ],
     "date": "06/05/2024 12:15pm"
   },
@@ -20,8 +20,8 @@
     "date": "06/05/2024 12:16pm"
   },
   {
-    "id": "193c2f21-7e2b-d04f-7475-d44f5dea5f02",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "a0a008a0-eb98-12f6-87d9-6d286a50b7b9",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
     "remote": true,
     "body": [
       "I got in, thank you!"
@@ -29,13 +29,40 @@
     "date": "06/05/2024 12:20pm"
   },
   {
-    "id": "a0a008a0-eb98-12f6-87d9-6d286a50b7b9",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "id": "193c2f21-7e2b-d04f-7445-d44f5dea5f02",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
     "remote": true,
     "body": [
-      "Same here :)"
+      "Sorry if this is a dumb question, but what is my company shortname?"
+    ],
+    "date": "06/05/2024 12:21pm"
+  },
+  {
+    "id": "e368f226-4829-c526-cfae-be7a3e925b1e",
+    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "remote": false,
+    "body": [
+      "Not a dumb question at all! It's the first letter of your first name and then the first five letters of your last name."
     ],
     "date": "06/05/2024 12:22pm"
+  },
+  {
+    "id": "193c2e21-7e2b-d04f-7475-d44f5dea5f02",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "Gotcha, thank you!"
+    ],
+    "date": "06/05/2024 12:23pm"
+  },
+  {
+    "id": "193c2f21-7e2b-d02f-7475-d44f5dea5f02",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "Just logged in :)"
+    ],
+    "date": "06/05/2024 12:26pm"
   },
   {
     "id": "07266dc3-57ab-c6d5-2bf5-6c925494ec57",
@@ -44,6 +71,6 @@
     "body": [
       "Awesome."
     ],
-    "date": "06/05/2024 12:25pm"
+    "date": "06/05/2024 12:27pm"
   }
 ]

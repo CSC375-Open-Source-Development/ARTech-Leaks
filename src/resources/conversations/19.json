@@ -83,7 +83,7 @@
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "remote": true,
     "body": [
-      "The rest are are old private cloud servers that aren't needed anymore now that we use AWS, so those can be removed."
+      "The rest were used for old projects that aren't in use anymore, so those can be removed."
     ],
     "date": "07/06/2024 9:35am"
   },

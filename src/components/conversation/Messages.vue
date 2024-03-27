@@ -8,7 +8,7 @@
             <p :class="getMetadataClass(message)">{{ getUser(message).firstName }} {{ getUser(message).lastName }}</p>
             <p :class="getMetadataClass(message)">{{ message.date }}</p>
           </div>
-          <p :class="getMessageClass(message)" v-for="element in message.body" :key="message.id + element">{{ element || '&nbsp;' }}</p>
+          <p :class="getMessageClass(message)" v-for="(element, index) in message.body" :key="message.id + index">{{ element || '&nbsp;' }}</p>
         </div>
       </div>
     </div>

@@ -1,29 +1,38 @@
 [
   {
-    "id": "21577187-e51d-e976-b428-033e7607198a",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "83ba3da6-f94b-6caa-78ca-99f0e6e1fd1d",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "Andrew just informed me that our newly hired devops contractor cannot access the build server due to the firewall. Any ideas on what we should do? It would take us weeks to get him a proper company computer with VPN access, but we don't have that kind of time right now due to the upcoming shareholders demo."
+    ],
+    "date": "07/01/2024 8:25am"
+  },
+  {
+    "id": "72e4950e-3cf2-7e6e-1272-77461c524940",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "remote": true,
     "body": [
-      "Hey Tom. Our new contractor employee needs access to the build server to do the job we hired him for, but the firewall is blocking him. Any ideas on what I can do?"
+      "Crap. I guess see if you can temporarily make the server public for now so the contractor can do his thing, but then we need to set it right back afterwards."
     ],
-    "date": "07/01/2024 8:05am"
+    "date": "07/01/2024 9:05am"
   },
   {
-    "id": "a03287b9-62bd-8bcf-c91f-9fb7e7bef090",
+    "id": "6f43c134-3961-a46f-c1f3-837d5a8d8870",
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "remote": false,
     "body": [
-      "Classic"
+      "Let's see if I can make it public..."
     ],
-    "date": "07/01/2024 8:17am"
+    "date": "07/01/2024 9:19am"
   },
   {
-    "id": "4953b2a4-5a2c-af75-5718-2f39f96f6f7a",
+    "id": "a4c1e905-201b-dc93-7c38-2a9a0616f07e",
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "remote": false,
     "body": [
-      "I'll reach out to Scott and see what he says to do."
+      "Okay...looks like it worked. Andrew just told me the contractor was able to get in. I'll make sure we revert this as soon as the contractor has wrapped up."
     ],
-    "date": "07/01/2024 8:17am"
+    "date": "07/01/2024 9:49am"
   }
 ]

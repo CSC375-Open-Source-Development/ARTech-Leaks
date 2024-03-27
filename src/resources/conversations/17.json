@@ -1,74 +1,83 @@
 [
   {
-    "id": "f97077b5-f698-df7e-e6a9-37241e8431c5",
+    "id": "707a1d1a-5cd9-3e66-5bc9-1269fdd6d38c",
     "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "remote": true,
     "body": [
-      "Hey all. I know it's close to the deadline for Pongchamps, but Sophia just wrapped up one of her customer research experiments, and based on the results we think our marketing strategy needs to be changed up a bit. While I know it's not yet implemented, the player character customization was a massive hit. Any chance one of you could quickly swap out the player character with a new one and send me a build of the game so that I can take a quick video? I think it will make the game's trailer much more impactful to have this."
+      "Any chance you have a new character design handy from back in the prototyping days that Andrew can quickly insert into the Pongchamps game?"
     ],
-    "date": "07/05/2024 2:56pm"
+    "date": "07/05/2024 3:25pm"
   },
   {
-    "id": "fb3f4d55-f92c-dd8a-9006-9801834647e9",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
-    "remote": true,
-    "body": [
-      "@Andrew is this something you can take care of? I have my hands full right now."
-    ],
-    "date": "07/05/2024 3:10pm"
-  },
-  {
-    "id": "ba6b27f5-8094-8f5d-2799-70062d827553",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "95f97845-fed5-f855-4792-5bc7f533e703",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
     "remote": false,
     "body": [
-      "Yeah, I can recolor the player as red or blue maybe if that works? Or do you need it to be an entirely new player character?"
+      "Yes, I should! Although I for some reason can't find the design archive on Confluence. Do we not have a Pongchamps section?"
     ],
-    "date": "07/05/2024 3:15pm"
+    "date": "07/05/2024 3:31pm"
   },
   {
-    "id": "cf209e32-f86e-2f8d-fb87-78b2828e140a",
+    "id": "d6ae59d2-730f-9217-18fe-ff9b57b4a6d5",
     "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "remote": true,
     "body": [
-      "Sorry if this is a dumb question, but how long would it take you to do a recolor vs an entirely new character assuming Quinn has one handy?"
+      "Hmm that's weird..."
     ],
-    "date": "07/05/2024 3:19pm"
+    "date": "07/05/2024 3:34pm"
   },
   {
-    "id": "1344b9b6-236d-c2f7-d9cd-8ca28b8a6541",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "940e41b1-3da3-73dd-637a-7617fc0a2f5b",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Oh I found it, it's under the game's old name PongX. I still laugh at that name."
+    ],
+    "date": "07/05/2024 3:48pm"
+  },
+  {
+    "id": "1ba47798-4742-8c56-0331-e59011f675a5",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
     "remote": false,
     "body": [
-      "If Quinn has one handy then both will likely take an equal amount of time. If Quinn doesn't have one handy, it would take quite a bit of time and effort to make an entirely new character and get it into the game."
+      "Everytime I see that name I just wince. Why does that X make it seem so inappropriate."
     ],
-    "date": "07/05/2024 3:21pm"
+    "date": "07/05/2024 3:49pm"
   },
   {
-    "id": "4a2a5486-d642-0b26-48ca-f39c6bb3d0a1",
+    "id": "44eb392c-78c3-26a9-ba01-208c970e7fc7",
     "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "remote": true,
     "body": [
-      "Cool cool, will check with Quinn and then let you know."
+      "Believe me I know, it took me and Sophia MONTHS to convince the branding team to rename the game."
     ],
-    "date": "07/05/2024 3:22pm"
+    "date": "07/05/2024 3:52pm"
   },
   {
-    "id": "61b90099-4696-deec-a93f-07294c182a6c",
-    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
-    "remote": true,
-    "body": [
-      "Just checked with Quinn, she's got one that she's sending it over to you. Thank you for doing this!"
-    ],
-    "date": "07/05/2024 4:30pm"
-  },
-  {
-    "id": "90723d0c-52b9-d544-eb01-8770d57848cd",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "9196b320-ae28-55fe-225e-174e635a6d55",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
     "remote": false,
     "body": [
-      "No problem!"
+      "HAHAHA oh god"
     ],
-    "date": "07/05/2024 4:50pm"
+    "date": "07/05/2024 3:53pm"
+  },
+  {
+    "id": "41119bc7-2ce7-0ec3-09ee-da96c5d4be1d",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": false,
+    "body": [
+      "After a ton of digging, I found a good character spritesheet and sent it to Andrew."
+    ],
+    "date": "07/05/2024 4:19pm"
+  },
+  {
+    "id": "95f37af9-9149-34a2-4dff-13d59522c3d6",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Thanks Quinn, you're the best!"
+    ],
+    "date": "07/05/2024 4:25pm"
   }
 ]

@@ -4,7 +4,7 @@
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": false,
     "body": [
-      "Hey, can you review that pull request I just created for Pongchamps when you have a chance?"
+      "Hey, can you review that pull request I just created for Pongchamps when you have a chance? It has some CI/CD pipeline script updates."
     ],
     "date": "06/08/2024 4:59pm"
   },
@@ -18,7 +18,7 @@
     "date": "06/08/2024 5:03pm"
   },
   {
-    "id": "13741c88-7ac2-dd0b-7770-986fd8fb58b9",
+    "id": "13751c88-7ac2-dd0b-7770-986fd8fb58b9",
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "remote": true,
     "body": [
@@ -27,12 +27,57 @@
     "date": "06/08/2024 5:12pm"
   },
   {
-    "id": "002791db-75fc-9243-5cbe-a5638fed4a76",
+    "id": "052791db-75fc-9243-5cbe-a5638fed4a76",
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": false,
     "body": [
       "Thanks, appreciate it."
     ],
     "date": "06/08/2024 5:13pm"
+  },
+  {
+    "id": "002791db-75fc-9243-5cbe-b5638fed4a76",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "Also TIL that for Windows, Cmder can be used to ssh instead of having to download and setup PuTTY -- makes life so much easier."
+    ],
+    "date": "06/08/2024 5:19pm"
+  },
+  {
+    "id": "13741c88-7ac2-dd0b-7771-986fd8fb58b9",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Oh really? That is handy."
+    ],
+    "date": "06/08/2024 5:25pm"
+  },
+  {
+    "id": "002791db-75fc-9243-5cbe-a5638fed4a71",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "I've been a Mac user my whole life before this job, so I was always used to just being able to ssh through the regular terminal. When you first told me that I had to download an entirely separate program to use ssh, I was so confused hahaha."
+    ],
+    "date": "06/08/2024 5:27pm"
+  },
+  {
+    "id": "13741c88-7ac2-dd0b-7770-986fd8fb58b9",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Come join the darkside and use Linux."
+    ],
+    "date": "06/08/2024 5:28pm"
+  },
+  {
+    "id": "002791db-75fc-9243-5cbe-a5638fed4a76",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "PASS HAHAHA"
+    ],
+    "date": "06/08/2024 5:28pm"
   }
 ]

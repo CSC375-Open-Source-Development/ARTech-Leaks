@@ -51,7 +51,7 @@
     "body": [
       "Hey great job guys. Just wanted to post a quick review here for you to look back on in the future:",
       "",
-      "Use ssh to log into the build server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it). You can do this through Cmder on Windows, or the regular terminal on Mac/Linux.",
+      "Use ssh to log into the build server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it).",
       "",
       "You will need to ssh in using your private cloud username, and then will need to enter in your prive cloud password when it prompts you.",
       "",

@@ -1,38 +1,92 @@
 [
   {
-    "id": "d0e44f84-6d90-f0be-313d-e2b473f871d9",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "39f134c5-6c24-b489-2f8a-29c85d04dfc5",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
     "remote": false,
     "body": [
-      "Hi Tom! Andrew told me to reach out to you for creating me a user for the private cloud so that I can access the build server."
+      "Hi Renata! Sophia asked me to help her deploy and experiment, but I didn't know how to do it. Andrew told me he'd show me how to do it for the future, but said I first needed to ask you to create me a private cloud user, which will then allow me to access our team's build server."
     ],
-    "date": "06/22/2024 11:55am"
+    "date": "06/22/2024 11:56am"
   },
   {
-    "id": "16f7426c-c40e-56b0-f3c6-39cfa7a9a30b",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "id": "e6982115-898e-4f8d-ab70-2767d39c0182",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
     "remote": true,
     "body": [
-      "Yep, I can take care of that. One sec..."
+      "I haven't done this in forever but let me see what I can do..."
     ],
-    "date": "06/22/2024 11:58am"
+    "date": "06/22/2024 12:14pm"
   },
   {
-    "id": "b8fb2055-8139-6a61-97ec-fa1a8d08f976",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
-    "remote": true,
-    "body": [
-      "All set. Your username is your company shortname, and I just secure emailed you the temporary password. This system is a little old fashioned where I have to create the entire account for you first. Once you login, head over to the tech portal, run the private cloud app, and login to it in order to change your password. I believe the password requirement is at least 11 characters, at least two capital letters, and at least two numbers. You should be all set from there"
-    ],
-    "date": "06/22/2024 12:10pm"
-  },
-  {
-    "id": "822216aa-6872-e5e9-a88f-b2b8d4f00624",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "5374f015-383f-43d0-487b-c355339fc8e6",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
     "remote": false,
     "body": [
-      "Thank you so much! Just did the password reset."
+      "Thank you!"
     ],
-    "date": "06/22/2024 12:21pm"
+    "date": "06/22/2024 12:15pm"
+  },
+  {
+    "id": "3047c48d-61ad-9152-3b45-f468f4b97020",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I figured it out. Your username is your company shortname. And I believe I need to secure email this password to you, one second..."
+    ],
+    "date": "06/22/2024 12:56pm"
+  },
+  {
+    "id": "e89b1f44-a16c-62b5-666a-26debe60c20e",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "Let me know if you got the email."
+    ],
+    "date": "06/22/2024 12:56pm"
+  },
+  {
+    "id": "d709ee2b-e08f-5077-d10a-7f85093b4bd7",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Just got it! HAHAHAHAHAHA!!! Love the password!!! How did you know?!"
+    ],
+    "date": "06/22/2024 1:05pm"
+  },
+  {
+    "id": "d4786d56-c5fb-ba43-0c64-846dede5461f",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I thought you'd get a kick out of that! I'm good friends with your old manager from your previous internship here, and it was the first thing she told me when I mentioned that you were joining our team."
+    ],
+    "date": "06/22/2024 1:08pm"
+  },
+  {
+    "id": "2e9dca7c-74d4-cfb8-49ee-f733ed4e7f6d",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "...I admit it, I am one of those super fans!"
+    ],
+    "date": "06/22/2024 1:09pm"
+  },
+  {
+    "id": "ad9b52b1-61f0-9d94-203f-73549d53c64e",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Also kudos for even getting the number correct!"
+    ],
+    "date": "06/22/2024 1:09pm"
+  },
+  {
+    "id": "4fce15f9-abe2-b06c-ad9e-b97a766b1dcf",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      ";)"
+    ],
+    "date": "06/22/2024 1:11pm"
   }
 ]

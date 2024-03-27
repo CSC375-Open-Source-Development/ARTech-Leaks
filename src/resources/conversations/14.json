@@ -1,74 +1,29 @@
 [
   {
-    "id": "a7f740c5-5106-5c81-02ad-eb5e9400857e",
-    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
-    "remote": false,
-    "body": [
-      "Hey team! Now that we are towards the end of our last Sprint (just a bit more crunch time, we got this!), the time has come for a long overdue team retrospective. Just wanted to check if everyone would be able to make a meeting on July 8th from 3pm-4pm? It's near impossible to find a time that everyone has free..."
-    ],
-    "date": "06/30/2024 9:42am"
-  },
-  {
-    "id": "f055f05f-a9ce-4628-8bb5-829cba3af54f",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "remote": true,
-    "body": [
-      "I can make it!"
-    ],
-    "date": "06/30/2024 9:43am"
-  },
-  {
-    "id": "3ace942c-a0de-e9c1-503a-cdb48a6f8461",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
-    "remote": true,
-    "body": [
-      "Yes!"
-    ],
-    "date": "06/30/2024 9:45am"
-  },
-  {
-    "id": "a36642cf-8739-ad30-1229-79f3ce614ee4",
-    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
-    "remote": true,
-    "body": [
-      "Yep!!!"
-    ],
-    "date": "06/30/2024 9:45am"
-  },
-  {
-    "id": "e3cbfca4-1f39-ad94-3b46-478b461b63d2",
+    "id": "21577187-e51d-e976-b428-033e7607198a",
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "Will be there."
+      "Hey Tom. Our new contractor employee needs access to the build server to do the job we hired him for, but the firewall is blocking him. Any ideas on what I can do?"
     ],
-    "date": "06/30/2024 9:56am"
+    "date": "07/01/2024 8:05am"
   },
   {
-    "id": "709d56b5-14c0-ccfb-3c9c-d4784bcfd4a3",
+    "id": "a03287b9-62bd-8bcf-c91f-9fb7e7bef090",
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
-    "remote": true,
-    "body": [
-      "Works for me."
-    ],
-    "date": "06/30/2024 10:01am"
-  },
-  {
-    "id": "7f10bce7-0b66-cf28-fc37-b9f7a61fa19f",
-    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
-    "remote": true,
-    "body": [
-      "That works for me. Go ahead and send out the meeting invite -- I'll move the other conflicting meeting on my calendar."
-    ],
-    "date": "06/30/2024 10:35am"
-  },
-  {
-    "id": "82364625-742f-1908-c88c-49adecaa48a1",
-    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
     "remote": false,
     "body": [
-      "Thanks everyone, just sent out the meeting invite."
+      "Classic"
     ],
-    "date": "06/30/2024 10:45am"
+    "date": "07/01/2024 8:17am"
+  },
+  {
+    "id": "4953b2a4-5a2c-af75-5718-2f39f96f6f7a",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "I'll reach out to Scott and see what he says to do."
+    ],
+    "date": "07/01/2024 8:17am"
   }
 ]

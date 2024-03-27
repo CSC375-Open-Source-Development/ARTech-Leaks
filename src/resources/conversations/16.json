@@ -1,38 +1,74 @@
 [
   {
-    "id": "83ba3da6-f94b-6caa-78ca-99f0e6e1fd1d",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
-    "remote": false,
-    "body": [
-      "Andrew just informed me that our newly hired devops contractor cannot access the build server due to the firewall. Any ideas on what we should do? It would take us weeks to get him a proper company computer with VPN access, but we don't have that kind of time right now due to the upcoming shareholders demo."
-    ],
-    "date": "07/01/2024 8:25am"
-  },
-  {
-    "id": "72e4950e-3cf2-7e6e-1272-77461c524940",
-    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "id": "f97077b5-f698-df7e-e6a9-37241e8431c5",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "remote": true,
     "body": [
-      "Crap. I guess see if you can temporarily make the server public for now so the contractor can do his thing, but then we need to set it right back afterwards."
+      "Hey all. I know it's close to the deadline for Pongchamps, but Sophia just wrapped up one of her customer research experiments, and based on the results we think our marketing strategy needs to be changed up a bit. While I know it's not yet implemented, the player character customization was a massive hit. Any chance one of you could quickly swap out the player character with a new one and send me a build of the game so that I can take a quick video? I think it will make the game's trailer much more impactful to have this."
     ],
-    "date": "07/01/2024 9:05am"
+    "date": "07/05/2024 2:56pm"
   },
   {
-    "id": "6f43c134-3961-a46f-c1f3-837d5a8d8870",
+    "id": "fb3f4d55-f92c-dd8a-9006-9801834647e9",
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
-    "remote": false,
+    "remote": true,
     "body": [
-      "Let's see if I can make it public..."
+      "@Andrew is this something you can take care of? I have my hands full right now."
     ],
-    "date": "07/01/2024 9:19am"
+    "date": "07/05/2024 3:10pm"
   },
   {
-    "id": "a4c1e905-201b-dc93-7c38-2a9a0616f07e",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "id": "ba6b27f5-8094-8f5d-2799-70062d827553",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": false,
     "body": [
-      "Okay...looks like it worked. Andrew just told me the contractor was able to get in. I'll make sure we revert this as soon as the contractor has wrapped up."
+      "Yeah, I can recolor the player as red or blue maybe if that works? Or do you need it to be an entirely new player character?"
     ],
-    "date": "07/01/2024 9:49am"
+    "date": "07/05/2024 3:15pm"
+  },
+  {
+    "id": "cf209e32-f86e-2f8d-fb87-78b2828e140a",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Sorry if this is a dumb question, but how long would it take you to do a recolor vs an entirely new character assuming Quinn has one handy?"
+    ],
+    "date": "07/05/2024 3:19pm"
+  },
+  {
+    "id": "1344b9b6-236d-c2f7-d9cd-8ca28b8a6541",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "If Quinn has one handy then both will likely take an equal amount of time. If Quinn doesn't have one handy, it would take quite a bit of time and effort to make an entirely new character and get it into the game."
+    ],
+    "date": "07/05/2024 3:21pm"
+  },
+  {
+    "id": "4a2a5486-d642-0b26-48ca-f39c6bb3d0a1",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Cool cool, will check with Quinn and then let you know."
+    ],
+    "date": "07/05/2024 3:22pm"
+  },
+  {
+    "id": "61b90099-4696-deec-a93f-07294c182a6c",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Just checked with Quinn, she's got one that she's sending it over to you. Thank you for doing this!"
+    ],
+    "date": "07/05/2024 4:30pm"
+  },
+  {
+    "id": "90723d0c-52b9-d544-eb01-8770d57848cd",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "No problem!"
+    ],
+    "date": "07/05/2024 4:50pm"
   }
 ]

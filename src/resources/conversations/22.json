@@ -13,7 +13,7 @@
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": false,
     "body": [
-      "Hey Laura! While normally our most up to date code is on the master branch, that bug fix was so last minute we didn't have time to get through all the required approvals to merge it in (Tom being out has made that process a bit more difficult...). The branch named \"dev\" has the most up to date version of the game with that bug fixed. Do you need me to help you access that branch?"
+      "While normally our most up to date code is on the master branch, that bug fix was so last minute we didn't have time to get through all the required approvals to merge it in (Tom being on PTO these last few days has made that process a bit more difficult...). The branch named \"dev\" has the most up to date version of the game with that bug fixed. Do you need me to help you access that branch?"
     ],
     "date": "07/09/2024 5:16pm"
   },

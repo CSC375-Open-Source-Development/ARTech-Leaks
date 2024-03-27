@@ -1,137 +1,38 @@
 [
   {
-    "id": "a7e7ed04-f418-b6b1-95a8-d24d21980e77",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
-    "remote": false,
-    "body": [
-      "Hey everyone! I hope you enjoyed your day off Andrew!"
-    ],
-    "date": "06/22/2024 11:15am"
-  },
-  {
-    "id": "98d812a1-5d09-f673-64a7-1e37a98f340b",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
-    "remote": false,
-    "body": [
-      "To catch you up Andrew, I need you to deploy a fake door website for me. Same way you usually do it. I asked Brian and Morgan yesterday while you were out, but they haven't learned how to do this yet."
-    ],
-    "date": "06/22/2024 11:16am"
-  },
-  {
-    "id": "3a53ed66-629a-40fa-8894-078abf5de329",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "Gotcha. @Brian and @Morgan -- do either of you have access to the build server?"
-    ],
-    "date": "06/22/2024 11:18am"
-  },
-  {
-    "id": "b69a27bd-f701-dc8e-5dcf-bc48f0e66fc1",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "remote": true,
-    "body": [
-      "I don't think so..."
-    ],
-    "date": "06/22/2024 11:19am"
-  },
-  {
-    "id": "a3884f2c-1db9-9bc5-97b5-e82e80eeb1ce",
+    "id": "d0e44f84-6d90-f0be-313d-e2b473f871d9",
     "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
-    "remote": true,
-    "body": [
-      "I don't think I do either. Not too sure what that is."
-    ],
-    "date": "06/22/2024 11:19am"
-  },
-  {
-    "id": "4d8178ef-191c-e4c1-7bb2-0b7c0ffcddec",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "Our team's build server is where our CI/CD pipelines are run. It's a server with permission to clone repos from our company's internal GitHub, and from there it can be setup to automate procedures for a given project like testing and deployments."
-    ],
-    "date": "06/22/2024 11:22am"
-  },
-  {
-    "id": "d0a42900-3aab-77ef-625e-5c57ec730fb8",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "For Sophia's experiments, she uses Wix which handles nearly everything for us, but we just need to use the build server to manually create the domain cert validation."
-    ],
-    "date": "06/22/2024 11:24am"
-  },
-  {
-    "id": "43cd5ed4-0b5c-6a2d-45b5-47fd09c13ef1",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "I'll take care of this now for you @Sophia. And then @Brian and @Morgan let's get you two access and then I can go through this process with you for the future."
-    ],
-    "date": "06/22/2024 11:25am"
-  },
-  {
-    "id": "6e0f948c-866a-92e6-0190-3ea46008452d",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
     "remote": false,
     "body": [
-      "Thank you Andrew :)"
-    ],
-    "date": "06/22/2024 11:26am"
-  },
-  {
-    "id": "6e0f948c-866a-92e6-0170-3ea46008452d",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
-    "remote": false,
-    "body": [
-      "I just emailed you the details of the domain name and such."
-    ],
-    "date": "06/22/2024 11:27am"
-  },
-  {
-    "id": "06db1744-870e-b2b6-c9d1-59d733a99a6b",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "All set @Sophia!"
-    ],
-    "date": "06/22/2024 11:46am"
-  },
-  {
-    "id": "9105dd05-23c5-8d16-5f7c-71825e952af9",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "@Brian can you reach out to Tom to create you a private cloud login so that you can access our build server? And then @Morgan you'll just need to reach out to Renata for that, since the rule here is that it requires manager signoff."
-    ],
-    "date": "06/22/2024 11:50am"
-  },
-  {
-    "id": "4ed2c08d-4290-379f-7429-ad49f3d086f0",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "remote": true,
-    "body": [
-      "Yep, doing that now!"
-    ],
-    "date": "06/22/2024 11:52am"
-  },
-  {
-    "id": "74d7350d-2bbc-6aa2-4db4-7cf9b4f64bf1",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
-    "remote": true,
-    "body": [
-      "Same here."
-    ],
-    "date": "06/22/2024 11:53am"
-  },
-  {
-    "id": "16f4d13d-be3d-8b1e-d6cc-b582699a64f1",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "Cool. Let me know once you guys have login access and then I'll do a demo with you."
+      "Hi Tom! Andrew told me to reach out to you for creating me a user for the private cloud so that I can access the build server."
     ],
     "date": "06/22/2024 11:55am"
+  },
+  {
+    "id": "16f7426c-c40e-56b0-f3c6-39cfa7a9a30b",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Yep, I can take care of that. One sec..."
+    ],
+    "date": "06/22/2024 11:58am"
+  },
+  {
+    "id": "b8fb2055-8139-6a61-97ec-fa1a8d08f976",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "All set. Your username is your company shortname, and I just secure emailed you the temporary password. This system is a little old fashioned where I have to create the entire account for you first. Once you login, head over to the tech portal, run the private cloud app, and login to it in order to change your password. I believe the password requirement is at least 11 characters, at least two capital letters, and at least two numbers. You should be all set from there"
+    ],
+    "date": "06/22/2024 12:10pm"
+  },
+  {
+    "id": "822216aa-6872-e5e9-a88f-b2b8d4f00624",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Thank you so much! Just did the password reset."
+    ],
+    "date": "06/22/2024 12:21pm"
   }
 ]

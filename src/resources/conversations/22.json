@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Hi Andrew! A while ago we had planned for you to teach me and Brian how to log into the build server, but I think we all forgot about it. Sophia mentioned to me that she has another experiment she needs stood up and I wanted to do it for her this time around, so I was wondering if you could give me (and @Brian if he is available) a quick walkthrough sometime today?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Hey -- I have time now if that works for you. @Brian you around?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Yes now is perfect, thank you!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "Let's do it!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Okay, calling you two now..."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Hey great job guys. Just wanted to post a quick review here for you to look back on in the future:",
+      "",
+      "Use ssh to log into the build server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it). You will need to ssh in using your private cloud username, and then will need to enter in your prive cloud password when it prompts you. Once you're in, you will then have access to the build server's terminal from your own and can run commands on it. From there you can clone any repo or run any pipeline, but for what Sophia needs, you'll just need to run one of the pre-created scripts and pass in her desired domain name as an argument."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Thank you so much Andrew, this was so helpful!!!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

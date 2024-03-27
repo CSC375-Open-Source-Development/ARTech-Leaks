@@ -33,7 +33,7 @@ export default {
   justify-content: center;
   align-items: center;
   gap: .5rem;
-  width: 80rem;
+  width: 100rem;
 }
 
 .conversation-overview-label {

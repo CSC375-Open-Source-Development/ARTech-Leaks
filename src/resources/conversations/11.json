@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Hi Tom! Andrew told me to reach out to you for creating me a user for the private cloud so that I can access the build server."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Yep, I can take care of that. One sec..."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "All set. Your username is your company shortname, and I just secure emailed you the temporary password. This system is a little old fashioned where I have to create the entire account for you first. Once you login, head over to the tech portal, run the private cloud app, and login to it in order to change your password. I believe the password requirement is at least 11 characters, at least two capital letters, and at least two numbers. You should be all set from there"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": false,
+    "body": [
+      "Thank you so much! Just did the password reset."
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

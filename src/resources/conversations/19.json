@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "Hi Scott. It looks like my wife is due any day now, and as a result my paternity leave will be starting within the next few days. I deeply apologize for doing this during this crunch time and putting so much work on to you all."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "No worries at all. Your life is way more important than anything this company has to offer you. Spend the next day or two wrapping everything up that you can, and then consider yourself on leave."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "Thanks Scott. Can't believe the day is finally about to come. Never been more excited for anything more than this...although I am sure I won't be saying that a few days into it when I am days without sleep hahaha."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "Will you be okay taking over as Andrew's manager in my absence? You can also take over for Brian's as well, however Andrew has really taken Brian under his wing, and I was thinking of letting him manage Brian if you would be okay with that. I know Andrew is still generally new, but I think he has what it takes."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "Sure, no problem -- both sound good to me. Happy to hear Andrew is doing such a good job."
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

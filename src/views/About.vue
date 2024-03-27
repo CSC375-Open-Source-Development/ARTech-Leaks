@@ -10,7 +10,7 @@
         The company is well known world-wide for their innovative game products, and has made billions of dollars in revenue.
         You can see some of the company's critically acclaimed products <a href="https://a-r-t.github.io/SER225-Project-Website/">here</a>.
         While the employees that work for ARTech are top-of-the-line, the CEO himself has faced a ton of criticism over accusations of hostile working conditions.
-        The court of public opinion has also grown tired of his can-do attitude and flannel shirts.
+        The court of public opinion has also grown tired of his can-do attitude.
       </p>
       <hr>
     </div>

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Hi Renata! Sophia asked me to help her deploy and experiment, but I didn't know how to do it. Andrew told me he'd show me how to do it for the future, but said I first needed to ask you to create me a private cloud user, which will then allow me to access our team's build server."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I haven't done this in forever but let me see what I can do..."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Thank you!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I think I got it. Your username is your company shortname. And I believe I need to secure email this password to you, one second..."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "Let me know if you got it."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Just got it! HAHAHAHAHAHA!!! How did you know?!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "6",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I thought you'd get a kick out of that! I'm good friends with your old manager from your previous internship here, and it was the first thing she told me when I mentioned that you were joining our team."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "...I admit it, I am one of those crazy fans!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "Also kudos for even getting the number correct!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      ";)"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

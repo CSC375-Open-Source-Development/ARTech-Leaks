@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "Hey! Can one of you please deploy a website for me? It's a fake door for the <PROJECT HERE> project to gather engagement and interest metrics. Normally Andrew does it for me, but he's out today."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "I would if I knew how hahaha! I'm still learning the ropes around here."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "No worries!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "I'm not sure how to do it either, I'm sorry! Renata was telling me though that there was an entire process for getting something deployed that takes multiple days. Do we have to go through that?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "Normally yes, but for these quick low-risk experiments, I am allowed to circumvent a lot of that as long as I get sign off and go through the dev team. No worries though, I'll just wait until tomorrow and ask Andrew. I'll include you guys too so you can learn how to do it for the future!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

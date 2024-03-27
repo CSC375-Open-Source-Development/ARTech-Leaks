@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Hey Tom. Our new contractor employee needs access to the build server to do the job we hired him for, but the firewall is blocking him. Any ideas on what I can do?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "Classic"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": false,
+    "body": [
+      "I'll reach out to Scott and see what he says to do."
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

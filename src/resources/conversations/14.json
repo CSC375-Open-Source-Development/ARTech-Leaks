@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "remote": false,
+    "body": [
+      "Hey team! Now that we are towards the end of our last Sprint (just a bit more crunch time, we got this!), the time has come for a long overdue team retrospective. Just wanted to check if everyone would be able to make a meeting on <DATE HERE> from 3pm-4pm? It's near impossible to find a time that everyone has free..."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": true,
+    "body": [
+      "I can make it!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "Yes!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "Yep!!!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Will be there."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Works for me."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "6",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "That works for me. Go ahead and send out the meeting invite -- I'll move the other conflicting meeting on my calendar."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "remote": false,
+    "body": [
+      "Thanks everyone, just sent out the meeting invite."
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

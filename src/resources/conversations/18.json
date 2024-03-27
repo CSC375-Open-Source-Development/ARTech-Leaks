@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Hey guys. I know it's close to the deadline for Ponchamps, but Sophia just wrapped up one of her customer research experiments, and based on the results we think our marketing strategy needs to be changed up a bit. While I know it's not yet implemented, the player character customization was a massive hit. Any chance one of you could quickly swap out the player character with a new one and send me a build of the game so that I can take a quick video? I think it will make the game's trailer much more impactful to have this."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "@Andrew is this something you can take care of? I have my hands full right now."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "Yeah, I can recolor the player as red or blue maybe if that works? Or do you need it to be an entirely new player character?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Sorry if this is a dumb question, but how long would it take you to do a recolor vs an entirely new character assuming Quinn has one handy?"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "5",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "If Quinn has one handy then both will likely take an equal amount of time."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "6",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Cool cool, will check with Quinn and then let you know."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "7",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Just checked with Quinn, she's got one that she's adding it to the project now for you. Thank you for doing this!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "8",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": false,
+    "body": [
+      "No problem!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

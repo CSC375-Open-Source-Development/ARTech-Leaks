@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "I just checked in with the dev team and the product team regarding project Pongchamps, and it appears things are going smoothly. Wanted to see how things were going on your two ends and make sure we are all on the same page for the upcoming shareholders demo."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "1",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": false,
+    "body": [
+      "Things are looking good over in my team's neck of the woods. We still have a few last-minute things to do like the instructions document and another round of play-testing, but overall I think we're in good shape."
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "2",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I just did a quality and standards review with the dev team earlier today for the project and they are hitting on a few key things we found, but we're looking good on this timeline!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "3",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "Awesome, thanks for the updates. Crunch time!!!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  },
+  {
+    "id": "4",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": false,
+    "body": [
+      "Ah don't say that, no crunch time please!!!"
+    ],
+    "date": "11/22/2024 13:15pm"
+  }
+]

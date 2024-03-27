@@ -2,7 +2,11 @@
   <div class="container">
     <p class="select-conversation-label">Select Conversation</p>
     <div class="listbox">
-      <p v-for="(chat, index) in chats" :key="chat.id" @click="onChatSelected(index)" :id="`chat-${index}`" class="no-margin unselectable">{{ chat.id }}</p>
+      <p v-for="(conversation, index) in conversations" :key="conversation.id" @click="onConversationSelected(index)" :id="`conversation-${index}`" class="no-margin unselectable">{{ conversation.id }}</p>
+    </div>
+    <div class="move-buttons-container">
+      <button class="move-button" @click="moveUp">&#9650;</button>
+      <button class="move-button" @click="moveDown">&#9660;</button>
     </div>
     <hr>
     <Conversation :messages="messages" :users="users"/>
@@ -20,31 +24,31 @@ export default {
   },
   data: () => {
     return {
-      chats: [],
-      selectedChatIndex: 0
+      conversations: [],
+      selectedConversationIndex: 0
     }
   },
   mounted() {
     const conversationIds = require.context('@/resources/conversations', false, /.json$/).keys().map(key => key.slice(2, -5))
-    this.chats = conversationIds.map(conversationId => ({ id: conversationId })).sort((a, b) => a.id.localeCompare(b.id))
+    this.conversations = conversationIds.map(conversationId => ({ id: conversationId })).sort((a, b) => parseInt(a.id) - parseInt(b.id))
 
     this.$nextTick(() => {
       const conversationId = this.$route.query.conversation
       if (!conversationId) {
-        return this.onChatSelected(0)
+        return this.onConversationSelected(0)
       }
-      const index = this.chats.findIndex(chat => chat.id === conversationId)
+      const index = this.conversations.findIndex(conversation => conversation.id === conversationId)
       if (index === -1) {
-        return this.onChatSelected(0)
+        return this.onConversationSelected(0)
       }
-      return this.onChatSelected(index)
+      return this.onConversationSelected(index)
     });
   },
   computed: {
     messages() {
-      if (this.chats[this.selectedChatIndex]) {
-        const chat = require(`../resources/conversations/${this.chats[this.selectedChatIndex].id}.json`)
-        return chat
+      if (this.conversations[this.selectedConversationIndex]) {
+        const conversation = require(`../resources/conversations/${this.conversations[this.selectedConversationIndex].id}.json`)
+        return conversation
       }
       return []
     },
@@ -59,16 +63,27 @@ export default {
     }
   },
   methods: {
-    onChatSelected(index) {
-      const previousChatSelection = document.getElementById(`chat-${this.selectedChatIndex}`)
-      previousChatSelection.style.backgroundColor = 'white';
-      previousChatSelection.style.color = 'black';
-      const chatSelection = document.getElementById(`chat-${index}`)
-      chatSelection.style.backgroundColor = 'green'
-      chatSelection.style.color = 'white';
-      this.selectedChatIndex = index
-      return this.$router.replace({ name: 'Chats', query: { conversation: this.chats[index].id } })
+    onConversationSelected(index) {
+      const previousConversationSelection = document.getElementById(`conversation-${this.selectedConversationIndex}`)
+      previousConversationSelection.style.backgroundColor = 'white';
+      previousConversationSelection.style.color = 'black';
+      const conversationSelection = document.getElementById(`conversation-${index}`)
+      conversationSelection.style.backgroundColor = 'green'
+      conversationSelection.style.color = 'white';
+      this.selectedConversationIndex = index
+      this.$el.querySelector(`#conversation-${index}`).scrollIntoView({ behavior: 'auto', block: 'nearest', inline: 'nearest' })
+      return this.$router.replace({ name: 'Chats', query: { conversation: this.conversations[index].id } })
         .catch(() => {})
+    },
+    moveUp() {
+      if (this.selectedConversationIndex > 0) {
+        this.onConversationSelected(this.selectedConversationIndex - 1)
+      }
+    },
+    moveDown() {
+      if (this.selectedConversationIndex < this.conversations.length - 1) {
+        this.onConversationSelected(this.selectedConversationIndex + 1)
+      }
     }
   }
 }
@@ -89,19 +104,27 @@ export default {
 }
 
 .listbox {
-  margin-bottom: 2rem;
   width: 30rem;
   color: black;
   cursor: pointer;
   height: 6rem;
   overflow-y: scroll;
   border: 1px solid black;
+  margin-bottom: 1rem;
 }
 
-select option  {
-  background-color: green;
-  color: white;
+.move-buttons-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
 
+.move-button {
+  width: 5rem;
+  height: 1.5rem;
 }
 
 hr {

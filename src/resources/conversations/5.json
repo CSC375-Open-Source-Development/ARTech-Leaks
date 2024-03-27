@@ -1,38 +1,128 @@
 [
   {
-    "id": "a7171e30-c250-8bb9-4f6a-a51f5ec9ddcf",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": false,
-    "body": [
-      "Hey, can you review this pull request when you have a chance? <PULL REQUEST HERE>"
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "8fbfec7f-ce55-a681-a94e-8e099705f78d",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "id": "df6c4780-09c7-749d-509c-346d901bd0c1",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
     "remote": true,
     "body": [
-      "Yep, looking at it now..."
+      "Is it normal to think about dropping out of grad school every day?"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/05/2024 3:36pm"
   },
   {
-    "id": "13741c88-7ac2-dd0b-7770-986fd8fb58b9",
-    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
-    "remote": true,
-    "body": [
-      "Just approved it. Excellent work."
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "002791db-75fc-9243-5cbe-a5638fed4a76",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "1ee4dd0f-3460-1c0b-c6ee-e1140577e2fb",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
     "remote": false,
     "body": [
-      "Thanks, appreciate it."
+      "I think so, that was my experience too!!!"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/05/2024 3:37pm"
+  },
+  {
+    "id": "393b1042-a465-032e-c3ce-a7362ff04bf1",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "Trust me, it's worth it though, and you're SO close to the end. You got this!!!"
+    ],
+    "date": "06/05/2024 3:37pm"
+  },
+  {
+    "id": "a383557c-7079-214e-a20a-04a06442e4aa",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "My professor legit did a cartwheel in class last night, I don't even know what this is anymore."
+    ],
+    "date": "06/05/2024 3:38pm"
+  },
+  {
+    "id": "5ec6ebd3-6241-32c6-9c9c-058732db41fa",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "Like bro does a cartwheel and then assigns a massive project for us to make an entire advertising campaign but we have to pretend our target audience is ants like ???"
+    ],
+    "date": "06/05/2024 3:40pm"
+  },
+  {
+    "id": "c3a82dcf-4957-3be0-e782-996a449a3d78",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "...ants?"
+    ],
+    "date": "06/05/2024 3:41pm"
+  },
+  {
+    "id": "5ec6ebd3-6241-32c6-9c9c-058732db41fa",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "ANTS"
+    ],
+    "date": "06/05/2024 3:41pm"
+  },
+  {
+    "id": "c3a82dcf-4957-3be0-e782-996a449a3d78",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "Aw that actually sounds kind fun. I would love to do research experiments and UI/UX testing on little teeny ants."
+    ],
+    "date": "06/05/2024 3:44pm"
+  },
+  {
+    "id": "c855f805-83c3-eb79-415b-630894eb4c46",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "Should we pitch a game for ants to the company? They are really an untapped market."
+    ],
+    "date": "06/05/2024 3:45pm"
+  },
+  {
+    "id": "da2acb35-d5bd-8e05-d809-7e26f5f2950f",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "I think we could get Laura into it. And I doubt the devs would even ask any questions."
+    ],
+    "date": "06/05/2024 3:47pm"
+  },
+  {
+    "id": "c64e0762-01d7-ddc2-3621-826217715fc0",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "Imagine having to tell Tom we're making a game for ants with a straight face and hand him over comps and requirements."
+    ],
+    "date": "06/05/2024 3:48pm"
+  },
+  {
+    "id": "0cbf854b-d88d-3c7b-d1d7-23a2cf87c00b",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "I think he'd quit on the spot."
+    ],
+    "date": "06/05/2024 3:48pm"
+  },
+  {
+    "id": "5a4d9d3e-b968-9ceb-4c39-fe5c069b61d4",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "Let me know when you finish this ant assignment, I'm actually super curious what you come up with!!!"
+    ],
+    "date": "06/05/2024 3:51pm"
+  },
+  {
+    "id": "37d229ee-a4f5-7512-eb86-abe2f421a7a5",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "<333"
+    ],
+    "date": "06/05/2024 3:51pm"
   }
 ]

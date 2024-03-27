@@ -1,29 +1,71 @@
 [
   {
-    "id": "b93056a7-ca6a-e74e-8f88-1bc36ea71c74",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "0b30e623-c1d4-1e4c-8624-82a81a9c5795",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
     "remote": false,
     "body": [
-      "Hey Andrew! I'm a bit stuck on this Pongchamps bug with the ball getting stuck inside the paddle. Do you have a second to hop on a call? I think I'm close but can't get past this last leg."
+      "Hi Andrew! A while ago we had planned for you to teach me and Brian how to log into the build server, but I think we all forgot about it. Sophia mentioned to me that she has another experiment she needs stood up and I wanted to do it for her this time around, so I was wondering if you could give me (and @Brian if he is available) a quick walkthrough sometime today?"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 10:30am"
   },
   {
-    "id": "78c99069-8294-311d-8c2d-b12204762351",
+    "id": "b4220811-960c-0741-1bb5-0bc6a0a3c5be",
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "Sure thing man, give me five minutes and I'll call you."
+      "Hey -- I have time now if that works for you. @Brian you around?"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 10:35am"
   },
   {
-    "id": "ca163a2c-b189-7adc-053c-3e4af6229b02",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "3f3dd001-c778-48c8-9db8-c994c8040894",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
     "remote": false,
     "body": [
-      "Thanks so much!!!"
+      "Yes now is perfect, thank you!"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 10:38am"
+  },
+  {
+    "id": "81e6e3d2-a21e-0a19-ffab-8af7c9025a1e",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "remote": true,
+    "body": [
+      "Let's do it!"
+    ],
+    "date": "07/09/2024 10:40am"
+  },
+  {
+    "id": "aae7e3dc-8512-d433-8733-043c36db2f50",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Okay, calling you two now..."
+    ],
+    "date": "07/09/2024 10:41am"
+  },
+  {
+    "id": "a0cbee90-4f32-bf69-174c-9b5fe84c1483",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "remote": true,
+    "body": [
+      "Hey great job guys. Just wanted to post a quick review here for you to look back on in the future:",
+      "",
+      "Use ssh to log into the build server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it).",
+      "",
+      "You will need to ssh in using your private cloud username, and then will need to enter in your prive cloud password when it prompts you.",
+      "",
+      "Once you're in, you will then have access to the build server's terminal from your own and can run commands on it. From there you can clone any of our internal GitHub repos or run any pipeline, but for what Sophia needs, you'll just need to run one of the pre-created scripts and pass in her desired domain name as an argument."
+    ],
+    "date": "07/09/2024 11:45am"
+  },
+  {
+    "id": "33fb0a4f-58c2-d4bc-c247-52cdc0302cc6",
+    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "remote": false,
+    "body": [
+      "Thank you so much Andrew, this was so helpful!!!"
+    ],
+    "date": "07/09/2024 11:46am"
   }
 ]

@@ -1,47 +1,40 @@
 [
   {
-    "id": "1b53c208-ecd5-7056-ec1d-eed50dc9813f",
-    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "id": "8b9de48d-6816-aa56-d31f-8a133723557b",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
     "remote": true,
     "body": [
-      "I just checked in with the dev team regarding project Pongchamps, and it appears things are going smoothly. Wanted to see how things were going on your two ends and make sure we are all on the same page for the upcoming shareholders demo."
+      "Hi Brian! Sorry I know it's late, but can you approve a pull request for me? It's just CSS updates for our website.",
+      "",
+      "https://github.com/ARTech-Industries/LandingPage/pull/53"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/26/2024 5:45pm"
   },
   {
-    "id": "be5ca958-5fb9-0dec-37ae-f23decfa208c",
-    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "id": "770610c7-05aa-2107-2c5d-657c0cd8e3da",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
+    "remote": true,
+    "body": [
+      "I know you don't really work on this project but you're the only other person online, and I need to get this in before our new advertisements go out tomorrow."
+    ],
+    "date": "06/26/2024 5:46pm"
+  },
+  {
+    "id": "73534575-d514-b8f3-35eb-528402072ffb",
+    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
     "remote": false,
     "body": [
-      "Things are looking good over in my team's neck of the woods. We still have a few last-minute things to do like the instructions document and another round of play-testing, but overall I think we're in good shape."
+      "Just approved it!"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/26/2024 5:50pm"
   },
   {
-    "id": "25b00e98-71da-68b7-3c20-aea00d282545",
-    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "id": "d444dcea-e79b-bffe-9569-2379ba907cae",
+    "from": "d270a4a4-399d-4f5f-81bf-19d12fe51ee3",
     "remote": true,
     "body": [
-      "I just did a quality and standards review with the dev team earlier today for the project and they are hitting on a few key things we found, but we're looking good on this timeline!"
+      "Thank you so much!"
     ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "12de91b0-4278-fcf8-8273-80b32d5e513b",
-    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
-    "remote": true,
-    "body": [
-      "Awesome, thanks for the updates. Crunch time!!!"
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "d648fa87-8116-220c-dae2-0d7705b851ee",
-    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
-    "remote": false,
-    "body": [
-      "Ah don't say that, no crunch time please!!!"
-    ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/26/2024 5:51pm"
   }
 ]

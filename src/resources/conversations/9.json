@@ -1,47 +1,99 @@
 [
   {
-    "id": "32dd0a75-11b8-550f-7809-3cb66723ff7a",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "id": "cc783da3-363c-736b-0245-8d2f41ec8a44",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "remote": false,
     "body": [
-      "Hey! Can one of you please deploy a website for me? It's a fake door for the <PROJECT HERE> project to gather engagement and interest metrics. Normally Andrew does it for me, but he's out today."
+      "Hey"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/23/2024 8:32am"
   },
   {
-    "id": "538d3d49-1d28-1809-d590-fc237f4063e6",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "4ab93427-1e32-eca0-92b5-e5059f9e7921",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": false,
+    "body": [
+      "I had just a meeting with our server admin team, and they are looking to clean up severs that aren't being used anymore to make space and save money. Can you go through the following list and tell me what is what and if anything isn't being used anymore so we can get rid of it?"
+    ],
+    "date": "06/23/2024 8:33am"
+  },
+  {
+    "id": "5861dddc-9b77-fe76-0f7c-9623d393c073",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "remote": true,
     "body": [
-      "I would if I knew how hahaha! I'm still learning the ropes around here."
+      "Yep, sure thing."
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/23/2024 8:35am"
   },
   {
-    "id": "e32356fc-0270-97e9-e046-f8b5991939c8",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
-    "remote": false,
-    "body": [
-      "No worries!"
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "47f0e757-6c6a-5920-26d3-d254358f3a4a",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "id": "fe5afeba-dc20-57db-699d-097ed072d76a",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "remote": true,
     "body": [
-      "I'm not sure how to do it either, I'm sorry! Renata was telling me though that there was an entire process for getting something deployed that takes multiple days. Do we have to go through that?"
+      "Thanks. Here is what I have on our list:",
+      " - 172.42.18.1",
+      " - 84.112.45.44",
+      " - 98.209.205.10",
+      " - 192.168.14.5",
+      " - 67.205.143.29",
+      " - 40.56.2.23",
+      " - 12.3.3.1"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/23/2024 8:37am"
   },
   {
-    "id": "4f8a0efa-c296-504d-584e-ee2dd3999266",
-    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "id": "dc5e252c-9449-24fd-8337-a421491fbae7",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "Okay, let me do some research to verify what some of these are for..."
+    ],
+    "date": "06/23/2024 8:39am"
+  },
+  {
+    "id": "506a27d8-26e5-7fa5-4d41-9a2d02a10885",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "172.42.18.1 is for an old legacy orchestrator and needs to stick around for now (although one day we should look and see if we can get rid of that...)."
+    ],
+    "date": "06/23/2024 8:52am"
+  },
+  {
+    "id": "8729e581-0f8f-2557-a91a-e37c0e451cce",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "67.205.143.29 is our build server that we use for our CI/CD pipelines, definitely need that."
+    ],
+    "date": "06/23/2024 9:03am"
+  },
+  {
+    "id": "bd52b0c2-2fdc-5926-fcff-ef41f4d06cd0",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "40.56.2.23 is our sandbox server that we use for testing things, we don't use it too often but it is nice to have."
+    ],
+    "date": "06/23/2024 9:16am"
+  },
+  {
+    "id": "44526ecd-594e-3f3f-2e46-d083eec4d158",
+    "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
+    "remote": true,
+    "body": [
+      "The rest are are old private cloud servers that aren't needed anymore now that we use AWS, so those can be removed."
+    ],
+    "date": "06/23/2024 9:35am"
+  },
+  {
+    "id": "d3488a9b-5670-f26f-4bbe-b0e001c2b4d4",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "remote": false,
     "body": [
-      "Normally yes, but for these quick low-risk experiments, I am allowed to circumvent a lot of that as long as I get sign off and go through the dev team. No worries though, I'll just wait until tomorrow and ask Andrew. I'll include you guys too so you can learn how to do it for the future!"
+      "Thanks -- will let the server admin team know."
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/23/2024 9:45am"
   }
 ]

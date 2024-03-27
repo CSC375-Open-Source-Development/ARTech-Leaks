@@ -2,20 +2,20 @@
   <div>
     <div class="container">
       <Overview :users="usersList" />
-      <Chat :messages="messages" :users="usersMap" />
+      <Messages :messages="messages" :users="usersMap" />
     </div>
   </div>
 </template>
 
 <script>
 import Overview from './Overview.vue'
-import Chat from './Chat.vue'
+import Messages from './Messages.vue'
 
 export default {
   name: 'Conversation',
   props: ['messages', 'users'],
   components: {
-    Chat,
+    Messages,
     Overview
   },
   computed: {

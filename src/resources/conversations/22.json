@@ -1,67 +1,47 @@
 [
   {
-    "id": "0b30e623-c1d4-1e4c-8624-82a81a9c5795",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
+    "id": "12a7dfb3-3d0e-c4d4-5bfb-6be33005aec3",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": true,
+    "body": [
+      "Hi Andrew -- quick question. Sophia and I are just doing our final prep before taking off for the big shareholders conference tomorrow and noticed that the Pongchamps bug where the ball could get stuck in the paddle is there there. I remember you guys saying at standup today that you fixed that already so I just want to make sure we have the most up to date version of the game."
+    ],
+    "date": "07/09/2024 5:04pm"
+  },
+  {
+    "id": "7d2e5bbf-732d-acda-b1f2-b77e3df8eb11",
+    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": false,
     "body": [
-      "Hi Andrew! A while ago we had planned for you to teach me and Brian how to log into the build server, but I think we all forgot about it. Sophia mentioned to me that she has another experiment she needs stood up and I wanted to do it for her this time around, so I was wondering if you could give me (and @Brian if he is available) a quick walkthrough sometime today?"
+      "Hey Laura! While normally our most up to date code is on the master branch, that bug fix was so last minute we didn't have time to get through all the required approvals to merge it in (Tom being out has made that process a bit more difficult...). The branch named \"dev\" has the most up to date version of the game with that bug fixed. Do you need me to help you access that branch?"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 5:16pm"
   },
   {
-    "id": "b4220811-960c-0741-1bb5-0bc6a0a3c5be",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "315c5e1c-9b93-26c5-e65a-90ebf49c2a20",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
     "remote": true,
     "body": [
-      "Hey -- I have time now if that works for you. @Brian you around?"
+      "@Andrew yes please, I will call you, I have the game setup on my computer."
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 5:19pm"
   },
   {
-    "id": "3f3dd001-c778-48c8-9db8-c994c8040894",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "remote": false,
-    "body": [
-      "Yes now is perfect, thank you!"
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "81e6e3d2-a21e-0a19-ffab-8af7c9025a1e",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "8aa39c85-c747-c1f9-e52c-b29bef81be1d",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
     "remote": true,
     "body": [
-      "Let's do it!"
+      "@Laura we are all set and ready to go!"
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 5:41pm"
   },
   {
-    "id": "aae7e3dc-8512-d433-8733-043c36db2f50",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
+    "id": "e0735934-e85e-71e2-5306-b991d6534fa2",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "remote": true,
     "body": [
-      "Okay, calling you two now..."
+      "Perfect, thank you both!"
     ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "a0cbee90-4f32-bf69-174c-9b5fe84c1483",
-    "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
-    "remote": true,
-    "body": [
-      "Hey great job guys. Just wanted to post a quick review here for you to look back on in the future:",
-      "",
-      "Use ssh to log into the build server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it). You will need to ssh in using your private cloud username, and then will need to enter in your prive cloud password when it prompts you. Once you're in, you will then have access to the build server's terminal from your own and can run commands on it. From there you can clone any repo or run any pipeline, but for what Sophia needs, you'll just need to run one of the pre-created scripts and pass in her desired domain name as an argument."
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "33fb0a4f-58c2-d4bc-c247-52cdc0302cc6",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "remote": false,
-    "body": [
-      "Thank you so much Andrew, this was so helpful!!!"
-    ],
-    "date": "11/22/2024 13:15pm"
+    "date": "07/09/2024 5:45pm"
   }
 ]

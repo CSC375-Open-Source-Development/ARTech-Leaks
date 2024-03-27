@@ -1,49 +1,47 @@
 [
   {
-    "id": "a2164071-f86c-7eef-ddcb-1c188608e1de",
-    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
-    "remote": false,
-    "body": [
-      "Hey guys, your access just got approved for our user story board in Trello.",
-      "",
-      "You should receive an email with the option to accept my invite. Hit accept, and then you will be brought to a login screen. To login, the username is your company shortname identifier (first letter of first name and first six letters of last name), and then your regular workstation password."
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "e368f336-4829-c526-cfae-be7a3e925b1e",
-    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
-    "remote": false,
-    "body": [
-      "Let me know if you are able to get in successfully."
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "193c2f21-7e2b-d04f-7475-d44f5dea5f02",
-    "from": "42f843f6-dcfe-4f6c-a589-a5ba696cdc16",
+    "id": "1b53c208-ecd5-7056-ec1d-eed50dc9813f",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "remote": true,
     "body": [
-      "I got in, thank you!"
+      "I just checked in with the dev team regarding project Pongchamps, and it appears things are going smoothly. Wanted to see how things were going on your two ends and make sure we are all on the same page for the upcoming shareholders demo."
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/22/2024 11:22pm"
   },
   {
-    "id": "a0a008a0-eb98-12f6-87d9-6d286a50b7b9",
-    "from": "1f6e0812-27cf-404f-8f62-959ebfe95d75",
-    "remote": true,
-    "body": [
-      "Same here :)"
-    ],
-    "date": "11/22/2024 13:15pm"
-  },
-  {
-    "id": "07266dc3-57ab-c6d5-2bf5-6c925494ec57",
-    "from": "a7081106-bee8-4dc8-b65d-b17925d632c7",
+    "id": "be5ca958-5fb9-0dec-37ae-f23decfa208c",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
     "remote": false,
     "body": [
-      "Awesome."
+      "Things are looking good over in my team's neck of the woods. We still have a few last-minute things to do like the instructions document and another round of play-testing, but overall I think we're in good shape."
     ],
-    "date": "11/22/2024 13:15pm"
+    "date": "06/22/2024 11:56pm"
+  },
+  {
+    "id": "25b00e98-71da-68b7-3c20-aea00d282545",
+    "from": "d5b6c2d4-e363-4bf4-9025-31f81e6d9092",
+    "remote": true,
+    "body": [
+      "I just did a quality and standards review with the dev team earlier today for the project and they are hitting on a few key things we found, but we're looking good on this timeline!"
+    ],
+    "date": "06/22/2024 12:31pm"
+  },
+  {
+    "id": "12de91b0-4278-fcf8-8273-80b32d5e513b",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "Awesome, thanks for the updates. Crunch time!!!"
+    ],
+    "date": "06/22/2024 1:01pm"
+  },
+  {
+    "id": "d648fa87-8116-220c-dae2-0d7705b851ee",
+    "from": "866d6899-a4db-4737-a6d4-1edec83b21db",
+    "remote": false,
+    "body": [
+      "Ah don't say that, no crunch time please!!!"
+    ],
+    "date": "06/22/2024 1:16pm"
   }
 ]

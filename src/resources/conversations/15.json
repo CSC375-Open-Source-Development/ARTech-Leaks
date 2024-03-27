@@ -13,7 +13,7 @@
     "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
     "remote": true,
     "body": [
-      "Crap. I guess see if you can temporarily make the server public for now so the contractor can do his thing, but then we need to set it right back afterwards."
+      "Crap. I guess see if you can temporarily make the server public for now so the contractor can do his thing in our guest account, but then we need to set it right back afterwards."
     ],
     "date": "07/01/2024 9:05am"
   },
@@ -31,8 +31,19 @@
     "from": "b0f93454-7e52-4cb8-b241-1ac3e29c90e9",
     "remote": false,
     "body": [
-      "Okay...looks like it worked. Andrew just told me the contractor was able to get in. I'll make sure we revert this as soon as the contractor has wrapped up."
+      "Okay...looks like it worked. Andrew just told me the contractor was able to get in.",
+      "",
+      "I'll make sure we revert this as soon as the contractor has wrapped up. I believe he just needs to clone some of our internal GitHub repos down to the server and run some sort of IaaC for them, nothing major. That server wipes itself clean every night anyway so there's only so much damage they could do."
     ],
     "date": "07/01/2024 9:49am"
+  },
+  {
+    "id": "72e4950e-c3f2-7e6e-1272-77461c524940",
+    "from": "7a2b3666-2890-4046-b377-82c52ffdcf3f",
+    "remote": true,
+    "body": [
+      "Sounds good. Just keep me in the loop."
+    ],
+    "date": "07/01/2024 9:59am"
   }
 ]

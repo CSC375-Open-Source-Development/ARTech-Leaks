@@ -51,11 +51,11 @@
     "body": [
       "Hey great job guys. Just wanted to post a quick review here for you to look back on in the future:",
       "",
-      "Use ssh to log into the build server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it).",
+      "Use ssh to log into the sandbox server from your command line via its ip address (which is listed on the Confluence documentation page in case you lose it).",
       "",
       "You will need to ssh in using your private cloud username, and then will need to enter in your prive cloud password when it prompts you.",
       "",
-      "Once you're in, you will then have access to the build server's terminal from your own and can run commands on it. From there you can clone any of our internal GitHub repos or run any pipeline, but for what Sophia needs, you'll just need to run one of the pre-created scripts and pass in her desired domain name as an argument."
+      "Once you're in, you will then have access to the sandbox server's terminal from your own and can run commands on it. From there you'll just need to run the pre-created domain validation script and pass in Sophia's desired domain name as an argument."
     ],
     "date": "07/09/2024 11:45am"
   },

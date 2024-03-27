@@ -22,7 +22,7 @@
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "Gotcha. @Brian and @Morgan -- do either of you have access to the build server?"
+      "Gotcha. @Brian and @Morgan -- do either of you have access to our sandbox server?"
     ],
     "date": "06/22/2024 11:18am"
   },
@@ -49,7 +49,7 @@
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "Our team's build server is where our CI/CD pipelines are run. It's a server with permission to clone repos from our company's internal GitHub, and from there it can be setup to automate procedures for a given project like testing and deployments."
+      "It's one of our team's servers in our company's private cloud."
     ],
     "date": "06/22/2024 11:22am"
   },
@@ -58,18 +58,27 @@
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "For Sophia's experiments, she uses Wix which handles nearly everything for us, but we just need to use the build server to manually create the domain cert validation."
+      "For Sophia's experiments, she uses Wix nowadays which handles nearly everything for us, but we just need to use the server to manually create the domain cert validation and create an activity report. It's a process that was put in place by the cybersecurity team to allow us to do things this way due to the nature of new venture work."
     ],
     "date": "06/22/2024 11:24am"
+  },
+  {
+    "id": "98d812a1-5d09-f673-64a7-1e37a9f8340b",
+    "from": "7bd3914c-74e8-4003-8920-e1358acebba7",
+    "remote": false,
+    "body": [
+      "Hahaha I'm always the person that needs to break the rules!!!"
+    ],
+    "date": "06/22/2024 11:25am"
   },
   {
     "id": "43cd5ed4-0b5c-6a2d-45b5-47fd09c13ef1",
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "I'll take care of this now for you @Sophia. And then @Brian and @Morgan let's get you two access and then I can go through this process with you for the future."
+      "I'll take care of this now for you @Sophia. And then @Brian and @Morgan let's get you two access and then I can go through this process with you for the future. I believe you just need a private cloud account in order to access any of our team's servers."
     ],
-    "date": "06/22/2024 11:25am"
+    "date": "06/22/2024 11:27am"
   },
   {
     "id": "6e0f948c-866a-92e6-0190-3ea46008452d",
@@ -78,7 +87,7 @@
     "body": [
       "Thank you Andrew :)"
     ],
-    "date": "06/22/2024 11:26am"
+    "date": "06/22/2024 11:28am"
   },
   {
     "id": "6e0f948c-866a-92e6-0170-3ea46008452d",
@@ -87,7 +96,7 @@
     "body": [
       "I just emailed you the details of the domain name and such."
     ],
-    "date": "06/22/2024 11:27am"
+    "date": "06/22/2024 11:28am"
   },
   {
     "id": "06db1744-870e-b2b6-c9d1-59d733a99a6b",
@@ -96,14 +105,14 @@
     "body": [
       "All set @Sophia!"
     ],
-    "date": "06/22/2024 11:46am"
+    "date": "06/22/2024 11:48am"
   },
   {
     "id": "9105dd05-23c5-8d16-5f7c-71825e952af9",
     "from": "2f02c01d-a693-4bc0-92b6-1fcde96ced0e",
     "remote": true,
     "body": [
-      "@Brian can you reach out to Tom to create you a private cloud login so that you can access our build server? And then @Morgan you'll just need to reach out to Renata for that, since the rule here is that it requires manager signoff."
+      "@Brian can you reach out to Tom to create you a private cloud login so that you can access this server? And then @Morgan you'll just need to reach out to Renata for that, since the rule here is that it requires manager signoff."
     ],
     "date": "06/22/2024 11:50am"
   },
